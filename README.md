@@ -11,4 +11,4 @@ What are Sitemaps? https://www.sitemaps.org/
 
 To install ISiteMapGenerator, run the following command in the Package Manager Console
 
-<b>PM> Install-Package ISiteMapGenerator</b>
+<pre>PM> Install-Package ISiteMapGenerator</pre>
